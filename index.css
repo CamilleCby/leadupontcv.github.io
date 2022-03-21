@@ -1,0 +1,32 @@
+#photo{
+    text-align: center;
+    
+}
+
+
+.title{
+    font-weight: bold;
+    font-size: large;
+    background-color: crimson;
+    color : white
+}
+
+.date{
+    font-style: italic;
+    font-size: smaller;
+}
+
+.level{
+    font-size: small;
+}
+
+.H2{
+    font-size: x-large;
+    font-weight: bold;
+    color: crimson;
+    text-align: center;
+}
+
+.h3{
+    font-weight: bold;
+}
